@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        />
+    <item android:title="Contact Us"
+        android:id="@+id/contact"
+        />
+    <item
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="Item"
+        app:showAsAction="always"
+        android:id="@+id/edit"
+        />
+</menu>
